@@ -1,0 +1,23 @@
+
+
+img{
+    max-width: 80%;
+}
+
+.galeria { /* Cambié 'galeria' a 'galeria' para que sea coherente */
+    background-color: #dbddf1;
+    padding: 80px 0;
+
+}
+.galeria-item{
+    background-color: #d66d6d;
+    padding: 15px;
+    width: auto;
+    box-shadow: 0 0 15px rgba(0,0,0,0.3);
+    cursor: pointer; 
+    border: 2px solid black;
+}
+
+#galeria-modal .modal-img {
+    width: 100%; 
+}
